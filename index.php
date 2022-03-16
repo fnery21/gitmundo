@@ -14,9 +14,9 @@
 </head>
 <body>
 
-    <font size= '14' name='Temp Sans ITC'  >
+    <font size= '14' name="Temp Sans ITC" color="Blue" >
 
-     <marquee> Saludos a Cordiales </marquee>   
+     <marquee> Saludo CordialeS Ticsitos </marquee>   
 
     </font>
     
